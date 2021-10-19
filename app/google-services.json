@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811036107470",
+    "project_id": "pdf-dwonup",
+    "storage_bucket": "pdf-dwonup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811036107470:android:b013d5466cfbeabb23a69f",
+        "android_client_info": {
+          "package_name": "com.example.downloadupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811036107470-qsg9178pj1fu6jrbumptb4cfet7atk0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYqVx3esEJzq7nq3MN0TnRPNT2dG3ibc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811036107470-qsg9178pj1fu6jrbumptb4cfet7atk0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
